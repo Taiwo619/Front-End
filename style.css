@@ -557,6 +557,10 @@ body {
         justify-content: flex-start;
         gap: 10px;
     }
+
+    .Graphic, .weather, .ToDo, .quiz{
+        max-width: 100% ;
+    }
 }
 
 
