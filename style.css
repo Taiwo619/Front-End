@@ -351,8 +351,12 @@ body {
     background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(Img/weather.png); background-size: cover; background-position: center;
 }
 
+.quiz{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(Img/quiz.png); background-size: cover; background-position: center;
+}
 
-.Graphic, .weather, .ToDo{
+
+.Graphic, .weather, .ToDo, .quiz{
     border-radius: 20px;
     overflow: hidden;
     max-width: 60% ;

@@ -115,6 +115,7 @@ function Intersection_Observer(className, animationClass) {
 Intersection_Observer("Graphic", "Project-animation");
 Intersection_Observer("ToDo", "Project-animation");
 Intersection_Observer("weather", "Project-animation");
+Intersection_Observer("quiz", "Project-animation");
 
 
 
